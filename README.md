@@ -4,5 +4,6 @@ How to contribute
 
 # git commit -m "any message"
 
-#git push 
+# git push 
+
 On your terminal 
